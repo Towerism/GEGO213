@@ -1,0 +1,99 @@
+#+TITLE: Lab Report 1
+#+AUTHOR: Martin Fracker
+#+OPTIONS: toc:t
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \usepackage{cite}
+#+LATEX_HEADER: \bibliographystyle{plain}
+* Abstract
+This experiment served as an introduction to the scientific method by answering
+a simple question using the scientific method: in a few parking lots on campus,
+what are the percentages of both out-of-state vehicles and pickup trucks? To
+answer this question, vehicles in a subsection of the Texas A&M campus were
+surveyed. The scientific method is important because it allows one to test a
+hypothesis without bias. I hypothesized that 25% of the vehicles surveyed would
+be out-of-state; only 1.6% were found to be out-of-state. I also hypothesized
+that 12% of the vehicles surveyed would be pickup trucks; 14.4% were found to be
+pickup trucks. Although my hypothesis was wrong, the experiment was a success
+because I know objectively my hypothesis was wrong.
+* Background
+This experiment serves as an introduction to the scientific method. According to
+the Planet Earth Lab Manual, experimenting and gathering evidence is necessary
+in order to draw a conclusion \cite{labmanual}. The lab manual states that
+out-of-state university students will never have a Texas license plate on their
+vehicles \cite{labmanual}. The lab manual also states that pickup trucks account for 12% of
+all U.S. vehicle production \cite{labmanual}. Therefore, a reasonable hypothesis can be made about
+the percentage of vehicles in a few parking lots on campus which are from
+out-of-state, trucks, or both. Then, the scientific method can be used to test
+the hypothesis.
+* Question and Hypotheses
+This experiment aims to answer the question: in a few parking lots on campus,
+what are the percentages of both out-of-state vehicles and pickup trucks? These
+questions are simple to answer, and by answering them I will learn how to use
+the scientific method. The lab manual states that roughly 5% of undergraduate
+students are from out-of-state \cite{labmanual}. I estimate that about 20% of the student
+body are graduate students and that all of them are from out of
+state. Therefore, I hypothesize that 25% of the vehicles observed are from
+out of state. The lab manual states that 12% of U.S. vehicles are pickup trucks
+\cite{labmanual}. Therefore, I hypothesize that 12% of the vehicles observed are
+pickup trucks.
+* Experimental Design
+The lab section was split into several groups in order to survey several small
+regions of campus at once. After each group was finished collecting data, each
+group's data was added up to constitute the results of the lab section as a
+whole. Each group was assigned a region in a parking lot and tasked with
+gathering several pieces of information: total number of vehicles, Texas pickup
+trucks, non-Texas pickup trucks, Texas non-trucks, and non-Texas non-trucks. Due
+to the number of vehicles in my group's region, we divided up the region four
+ways. This added a small amount of complexity to our data collection process
+because we had to add up our group's intermediate results.
+* Limitations
+Because my group divided up our assigned region four ways and counted up the
+vehicles in the region individually, there may have been errors in adding up our
+group's results. Along those same lines, there may have been errors in adding up
+all of the groups' results.  Another limitation is that all of the vehicles
+counted were sampled within a time frame of about 25 minutes. The sample could
+have been more sophisticated if the vehicles were sampled over a larger time
+frame to account for vehicles that were not parked during the time of our
+sample.
+* Results
+#+CAPTION: My group's results
+#+NAME: tab:group
+|           | Trucks | Other | Sum |
+|-----------+--------+-------+-----|
+| Texas     |     11 |    72 |  83 |
+| Non-Texas |      0 |     0 |   0 |
+| Sum       |     11 |    72 |  83 |
+
+#+CAPTION: My lab section's results
+#+NAME: tab:section
+|           | Trucks | Other | Sum |
+|-----------+--------+-------+-----|
+| Texas     |     53 |   249 | 302 |
+| Non-Texas |      0 |     6 |   6 |
+| Sum       |     53 |   255 | 368 |
+Table [[tab:group]] shows my group's results. There were no non-Texas vehicles
+surveyed in my group. About 15.3% of the vehicles in my group were pickup
+trucks. Table [[tab:section]] shows the results of each group in my lab section
+aggregated into one table. Altogether, non-Texas vehicles made up about 1.6%
+of the vehicles surveyed in my lab section. None of these vehicles were pickup
+trucks. In total, the number of pickup trucks made up about 14.4% of the
+vehicles surveyed in my lab section.
+* Conclusion
+This experiment answered the question: in a few parking lots on campus, what are
+the percentages of both out-of-state vehicles and pickup trucks? I hypothesized
+that 25% would be from out-of-state and 12% would be pickup trucks. It turned
+out that 1.6% were from out of state and 14.4% were pickup trucks. From these
+results, I conclude that my hypothesis was incorrect. While the actual
+percentage of pickup trucks observed is close to my hypothesis, the actual
+percentage of out-of-state vehicles is way off.
+
+This experiment served as an introduction to the scientific method by starting
+with a simple question, and using the scientific method to test a hypothesis. To
+this end, I am confident the experiment was successful because I found out
+whether my hypothesis was true or false. In this case, I found that the
+hypothesis was false.
+
+bibliography:references.bib
+

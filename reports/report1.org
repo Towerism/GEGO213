@@ -4,7 +4,6 @@
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
 #+LATEX_HEADER: \usepackage{setspace}
 #+LATEX_HEADER: \doublespacing
-#+LATEX_HEADER: \usepackage{cite}
 #+LATEX_HEADER: \bibliographystyle{plain}
 * Abstract
 This experiment served as an introduction to the scientific method by answering
@@ -20,10 +19,10 @@ because I know objectively my hypothesis was wrong.
 * Background
 This experiment serves as an introduction to the scientific method. According to
 the Planet Earth Lab Manual, experimenting and gathering evidence is necessary
-in order to draw a conclusion \cite{labmanual}. The lab manual states that
+in order to draw a conclusion cite:labmanual. The lab manual states that
 out-of-state university students will never have a Texas license plate on their
-vehicles \cite{labmanual}. The lab manual also states that pickup trucks account for 12% of
-all U.S. vehicle production \cite{labmanual}. Therefore, a reasonable hypothesis can be made about
+vehicles cite:labmanual. The lab manual also states that pickup trucks account for 12% of
+all U.S. vehicle production cite:labmanual. Therefore, a reasonable hypothesis can be made about
 the percentage of vehicles in a few parking lots on campus which are from
 out-of-state, trucks, or both. Then, the scientific method can be used to test
 the hypothesis.
@@ -32,11 +31,11 @@ This experiment aims to answer the question: in a few parking lots on campus,
 what are the percentages of both out-of-state vehicles and pickup trucks? These
 questions are simple to answer, and by answering them I will learn how to use
 the scientific method. The lab manual states that roughly 5% of undergraduate
-students are from out-of-state \cite{labmanual}. I estimate that about 20% of the student
+students are from out-of-state cite:labmanual. I estimate that about 20% of the student
 body are graduate students and that all of them are from out of
 state. Therefore, I hypothesize that 25% of the vehicles observed are from
 out of state. The lab manual states that 12% of U.S. vehicles are pickup trucks
-\cite{labmanual}. Therefore, I hypothesize that 12% of the vehicles observed are
+cite:labmanual. Therefore, I hypothesize that 12% of the vehicles observed are
 pickup trucks.
 * Experimental Design
 The lab section was split into several groups in order to survey several small

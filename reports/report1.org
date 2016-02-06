@@ -29,7 +29,7 @@ the hypothesis.
 * Question and Hypotheses
 This experiment aims to answer the question: in a few parking lots on campus,
 what are the percentages of both out-of-state vehicles and pickup trucks? These
-questions are simple to answer, and by answering them I will learn how to use
+questions are simple to answer, and by answering them one will learn how to use
 the scientific method. The lab manual states that roughly 5% of undergraduate
 students are from out-of-state cite:labmanual. I estimate that about 20% of the student
 body are graduate students and that all of them are from out of

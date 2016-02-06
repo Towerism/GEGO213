@@ -1,0 +1,60 @@
+#+TITLE: Lab Report 2
+#+AUTHOR: Martin Fracker
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \bibliographystyle{plain}
+* Reflection
+This is a reflection on the spatial awareness lab cite:labmanual. The lab made
+me think about how I develop my spatial awareness in new surroundings, where my
+spatial awareness is good, and where it needs improvement in terms of my sense
+of direction, estimation of distance, and estimation of time.
+
+In general, I cannot be spatially aware in a particular setting unless I become
+very familiar with the area. For example, when I first moved to College Station,
+I did not know my way around, nor did I have a sense of direction. However, I
+quickly realized that, standing at the corner of Ross and Houston streets facing
+University Drive, Wellborn is to the west, South Texas Avenue is to the east,
+and George Bush Drive is to the south. Those directions are slightly incorrect
+because facing University from the aforementioned position is not exactly
+north. I learned this when I overheard students referring to what I called north
+as "Aggie north," because what I call north is really northwest. Thus, when I
+need to know what direction I am truly facing I discern my direction relative to
+Aggie north, and then I adjust my result for true north.
+
+This became apparent during this lab whenever I was asked what direction I was
+facing. The lab manual took me to a reference location in front of the O&M
+building looking toward the Architecture building, and confirmed for me that I
+was facing northwest cite:labmanual. To answer the following directional
+questions, I mentally took myself back to the reference location and visualized
+a compass. This demonstrates that my sense of direction is dependent on my
+knowledge of where I am, as I have to know where the reference location is
+relative to where I am standing.
+
+My spatial awareness is quite good, however my estimation of distance is not so
+good. I live close to campus, so I walk everywhere. I know where a lot of
+buildings are and how to get there. If I don't know where a particular building
+is, looking up a nearby intersection is enough for me to know how to get
+there. My estimation of distance is not as good as my spatial
+awareness. Throughout the lab I would overshoot one estimation and undershoot
+the next one. My distance estimation is not very good probably because
+perspective skews my perception of distance.
+
+My estimation of time on the other hand seemed to be quite good. The lab asked
+me to estimate the time it would take to walk from Sul Ross to Fish Pond
+cite:labmanual. I timed my walk, and when compared to my estimation I was only
+off by one second. My estimation of time is not perfect, however, because I was
+off by a minute and fifteen seconds for the the next estimation; I consider it
+good, however, because I was inaccurate with my distance estimation throughout
+the lab, but I was very accurate with my time estimation from Sul Ross to Fish
+Pond.
+
+Overall, this lab made me think about my spatial awareness in terms of sense of
+direction, distance estimation, and estimation of time. In terms of my sense of
+direction and estimation of time, my spatial awareness is quite good. However,
+my distance estimation was rather poor, so in that respect my spatial awareness
+is sub par. Although my spatial awareness is not perfect, I am satisfied with my
+sense of direction and estimation of time.
+
+bibliography:references.bib

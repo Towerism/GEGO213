@@ -18,7 +18,7 @@ quickly realized that, standing at the corner of Ross and Houston streets facing
 University Drive, Wellborn is to the west, South Texas Avenue is to the east,
 and George Bush Drive is to the south. Those directions are slightly incorrect
 because facing University from the aforementioned position is not exactly
-north. I learned this when I overheard students referring to what I called north
+north. I learned this when I overheard students referring to what I call north
 as "Aggie north," because what I call north is really northwest. Thus, when I
 need to know what direction I am truly facing I discern my direction relative to
 Aggie north, and then I adjust my result for true north.
@@ -44,17 +44,17 @@ perspective skews my perception of distance.
 My estimation of time on the other hand seemed to be quite good. The lab asked
 me to estimate the time it would take to walk from Sul Ross to Fish Pond
 cite:labmanual. I timed my walk, and when compared to my estimation I was only
-off by one second. My estimation of time is not perfect, however, because I was
+off by one second. My estimation of time is not perfect however, because I was
 off by a minute and fifteen seconds for the the next estimation; I consider it
-good, however, because I was inaccurate with my distance estimation throughout
+good though because I was inaccurate with my distance estimation throughout
 the lab, but I was very accurate with my time estimation from Sul Ross to Fish
 Pond.
 
-Overall, this lab made me think about my spatial awareness in terms of sense of
-direction, distance estimation, and estimation of time. In terms of my sense of
-direction and estimation of time, my spatial awareness is quite good. However,
-my distance estimation was rather poor, so in that respect my spatial awareness
-is sub par. Although my spatial awareness is not perfect, I am satisfied with my
-sense of direction and estimation of time.
+Overall, this lab made me think about my spatial awareness in terms of my sense
+of direction, distance estimation, and estimation of time. In terms of my sense
+of direction and estimation of time, my spatial awareness is quite
+good. However, my distance estimation was rather poor, so in that respect my
+spatial awareness is sub par. Although my spatial awareness is not perfect, I am
+satisfied with my sense of direction and estimation of time.
 
 bibliography:references.bib

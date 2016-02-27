@@ -2,6 +2,9 @@
 #+AUTHOR: Martin Fracker
 #+OPTIONS: toc:nil num:nil
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \bibliographystyle{plain}
 * Classification of the Climate of Texas
 Texas is a great state. Much of Texas is warm for a large part of the year,
 making Texas an excellent state for walking. Taking into account average annual
@@ -10,21 +13,21 @@ ideal place to walk is in central Texas.
 
 Walking outdoors does not seem too enjoyable when you either have to wear a rain
 jacket because it is raining or a sweater because it is cold. However, a little
-bit of rainfall probably brings with it humidity which is probably good for the
+bit of rainfall may bring with it humidity which is may be good for the
 skin, and a cold spell here and there is preferred to a hot spell. Therefore,
 the ideal climate for walking in Texas is warm and wet: an average annual
-precipitation between 22 and 40 inches and an average annual high temperate
-between 55 and 65 degrees Fahrenheit.
+precipitation between 22 and 40 inches and an average annual high temperature
+between 55 and 65 degrees Fahrenheit cite:texasclimateatlas.
 
 Outside of central Texas, climate can get a little extreme. East Texas is very
 wet. Very wet climate is not ideal for walking because, in my opinion, walking
 in the rain is not very fun. While it may not be raining every day in east
-Texas, it is probably going to rain a lot more than I would like to prompting me
+Texas, it is probably going to rain a lot more than I would like to, prompting me
 to stay inside more often.
 
 For many of the same reasons, North Texas is not ideal for walking either. There
 is probably a small window of time in the spring and summer where conditions are
-good for walking. However, the winter and fall most likely feels a lot longer
+good for walking. However, the winter and fall most likely feel a lot longer
 than it does in central Texas.
 
 On the other side of the spectrum, the southern tip of Texas gets really hot in
@@ -43,3 +46,5 @@ temperatures. Of these eight regions, only one of them is ideal for walking
 outside: central Texas. Central Texas is a warm, wet region making it ideal for
 walking. It is not too hot or too cold, and it is just right in terms of
 rainfall.
+
+bibliography:references.bib

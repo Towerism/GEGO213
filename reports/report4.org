@@ -1,0 +1,46 @@
+#+TITLE: Lab 9 Report
+#+AUTHOR: Martin Fracker
+#+OPTIONS: toc:nil num:t
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \bibliographystyle{plain}
+* Black Forest fire of 2013
+The Black Forest fire of 2013 was a disaster that was waiting to happen. Dry
+air, strong winds, and a thick forested area allowed a fire to quickly spread
+over a large area. After burning for about 9 days, the fire was finally
+contained prompting the people of Black Forest to enter into the process of
+recovery, one that will likely take a few years.
+** Preconditions
+The Black Forest fire of 2013 occurred in Colorado on Tuesday, June 11
+cite:bfdenverpost. It was a dry day with temperatures reaching 95 degrees
+Fahrenheit cite:bfdenverpost and strong winds. Fuels involved included ponderosa
+pine, oak shrubs, as well as timber cite:bfstats.
+** Timeline
+The Black Forest fire started at about 2:30 PM cite:bfstats and spread rapidly
+and lasted a little more than a week and burned 16,000 acres
+cite:bfcontained. Strong winds initially made it tough for responders to contain
+the fire. However, conditions became more agreeable as time went on
+cite:bfcontained, and the fire was 100% contained on June 20 at about 6 PM
+cite:bfstats.
+** Recovery
+Before the Black Forest fire, the dense forest was a disaster waiting to happen
+cite:bfrecovery. After the fire, the people of Black Forest began to realize
+that, and, in addition to rebuilding hundreds of homes, focused on the future of
+the forest cite:bfrecovery.
+*** Forest Managers
+Forest managers concluded that, even after the fire, the forest was still a fire
+hazard due to the amount of trees, especially after a long period of growth
+cite:bfrecovery. In order to save the forest, the forest managers had decided to
+cut some trees down cite:bfrecovery. Forest managers believed that the
+restoration of Black Forest would take decades cite:bfrecovery.
+*** What I would have done
+With the amount of overgrowth that forest managers claimed to be present in the
+forest even after the fire, I would have done the same thing in their
+situation. However, while the fire was still being contained, I would have let a
+controlled fire blaze in the forest in order to speed up the future recovery
+process.
+** Conclusion
+In conclusion, the Black Forest fire of 2013 was a disaster that was waiting to
+happen. Dry air, strong winds, and a thick forested area allowed a fire that
+lasted 9 days to quickly spread over a large area. The people of Black Forest
+will probably be in the process of recovering the forest for the next few years.
+bibliography:references.bib

@@ -1,0 +1,66 @@
+#+TITLE: Lab 10 Report
+#+AUTHOR: Martin Fracker
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \bibliographystyle{plain}
+* Background
+I chose to evaluate an oxbow lake associated with the Red River, specifically
+the one located near Burneyville, Oklahoma. In Texas, it is the second longest
+river cite:tsharedriver. The river is called red because of red soil that the
+river tends to carry during times of flood cite:tsharedriver. The Red River has
+many forks, but its source is located in Curry County, New Mexico, and drains in
+the Mississippi drainage basin cite:tsharedriver.
+* Oxbow Lake
+The selected oxbow lake is located near Burneyville, Oklahoma and is associated
+with the Red River as suggested by the lecture slides. This particular location
+seems to be one of multiple oxbow lakes over the course of possibly
+decades. This is evidenced by scarring that may have been left behind by
+previous oxbow lakes as seen in figure ref:img-2005.
+* Changes Over Time
+Figure ref:img-2005 shows the oxbow lake in 1995. It is starting to fill up with
+sediment. The oxbow lake also has forks on its west side where the oxbow lake
+splits off into what look like tendrils. At this stage, it is also obvious, from
+the scarring shown in the picture, that there have been multiple oxbow lakes at
+this location in the past. Figure ref:img-2006 shows the oxbow lake
+in 2006. Vegetation has started growing, more sediment is building up, and the
+forks and scarring have become less prominent. Figure ref:img-2010 shows the
+oxbow lake in 2010. The oxbow lake is becoming thinner as more sediment builds
+up, more vegetation is growing over the oxbow lake, and the forks are no longer
+visible. Figure ref:img-2016 shows the oxbow lake in 2016. Compared to 2006 and
+1995, there is a significant amount of sediment left behind by the meandering
+river itself indicating it may be on its way to form a new oxbow lake in the
+future. The current oxbow lake at this point is nearly covered in
+vegetation. The url used for the images is:
+https://www.google.com/maps/@33.8753618,-97.3251969,7927m/data=!3m1!1e3.
+
+* Future
+The oxbow lake is already almost completely covered with vegetation. This is due
+to sediment building up from the red river spilling over into oxbow lake, slowly
+filling in the oxbow lake over time. As the lake fills in with more sediment, it
+will gradually disappear as more and more vegetation grows over the
+sediment-filled in oxbow lake. In the future one may not even be able to tell
+that there was even an oxbow lake there at one time.
+
+bibliography:references.bib
+
+#+CAPTION: Oxbow Lake 2005
+#+TBLNAME: img-2005
+#+ATTR_LATEX: :width 250px
+[[./images/oxbow-1-31-1995.png]]
+
+#+CAPTION: Oxbow Lake 2006
+#+TBLNAME: img-2006
+#+ATTR_LATEX: :width 250px
+[[./images/oxbow-10-7-2006.png]]
+
+#+CAPTION: Oxbow Lake 2010
+#+TBLNAME: img-2010
+#+ATTR_LATEX: :width 250px
+[[./images/oxbow-9-18-2010.png]]
+
+#+CAPTION: Oxbow Lake 2016
+#+TBLNAME: img-2016
+#+ATTR_LATEX: :width 250px
+[[./images/oxbow-present.png]]

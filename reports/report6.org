@@ -1,0 +1,79 @@
+#+TITLE: Lab 11 Report
+#+AUTHOR: Martin Fracker
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \bibliographystyle{plain}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+
+* Abstract
+Mount Pinatubo, once dormant for 500 years, erupted violently in 1991 resulting
+in one of the biggest eruptions of the 20th century. The eruption was so
+disastrous that not only its ability to physically change the surrounding
+landscape but also its life threatening hazards have been felt years after. Deep
+valleys were filled by pyroclastic flows, and several villages were run over by
+lahars.
+* Background
+Before its cataclysmic volcanic activity which began to surface in March of
+1991, Mount Pinatubo had been enjoying a period of dormancy which lasted about 500
+years cite:usgspinatubo. Part of the aggravation that led to this disaster may
+have been a magnitude 7.8 earthquake that occurred on the Philippine island of
+Luzon 60 miles away from Mount Pinatubo about a year before its eruption
+cite:usgspinatubo. Initially, the volcanic activity consisted of powerful steam
+explosions and magma rising slowly at the surface cite:usgspinatubo. This
+changed on June 15, when the volcano erupted violently and sent large amounts of
+volcanic material into the atmosphere, marking one of the biggest volcanic
+eruptions of the twentieth century. Ash continued to occasionally spew out
+from the volcano up until September of that year cite:usgspinatubo.
+* Data, Imagery, Destruction
+Luckily, scientists had forecast this event so the damage that would have
+occurred was somewhat prevented cite:usgspinatubo. Although 5,000 lives were
+saved and $250 million in property damage was prevented, the eruption still
+caused $100 million in aircraft damages and devastated two of the largest
+U.S. military bases in the Philippines cite:usgspinatubo.
+
+As much as 20 million tons of sulfur dioxide was emitted during the eruption,
+causing temperatures to drop worldwide for two years by half of a degree Celsius
+cite:usgspinatubo. Figure ref:img-ashcloud shows an ash cloud over Mount
+Pinatubo resulting from its first eruption in 500 years.
+
+Disastrous pyroclastic flows seemed to completely fill deep valleys
+cite:usgspinatubo. Even a half decade or more later, the deposits left over from
+the pyroclastic flows have remained very hot, with temperatures reaching more
+than 400 degrees Celsius cite:usgspinatubo. The intense heat causes explosions
+sending ash into the atmosphere whenever groundwater or streams come into
+contact with the deposits cite:usgspinatubo. It is ash deposits such as these
+that are swept away during heavy rains causing lahars that have buried several
+villages and crop fields cite:usgspinatubo. Figure ref:img-lahar-village shows
+such a village.
+
+Although thousands of lives were saved, hundreds of thousands of the people of
+the Philippines were dislocated cite:usgspinatubo. Those whose homes were not
+erased by lahars have been able to return home, albeit under the threat of
+future lahars cite:usgspinatubo.
+
+#+CAPTION: The ash cloud emitted by Mount Pinatubo on June 12, 1991, the date marking its first eruption in centuries.
+#+TBLNAME: img-ashcloud
+#+ATTR_LATEX: :width 400px
+[[./images/pinatubo-ash-cloud.jpg]]
+
+#+CAPTION: A small village buried by a lahar.
+#+TBLNAME: img-lahar-village
+#+ATTR_LATEX: :width 239px
+[[./images/pinatubo-village-buried.jpg]]
+
+* Conclusion
+The eruption of Mount Pinatubo was a cataclysmic event causing drastic change in
+landscape and displacement of hundreds of thousands of people. The eruption was
+so disastrous that its life threatening effects have been felt years after. Deep
+valleys were filled by pyroclastic flows, and several villages were run over by
+lahars. This merely goes to show that no matter how long a volcano has been
+dormant, it might erupt any day. Recall that the Pompeiians and Herculaneans
+buried under the ashes of the catastrophic eruption of Mount Vesuvius in 79 AD
+were not even aware that it was a volcano because it had not erupted in
+centuries, even longer than Mount Pinatubo had gone before it erupted again
+cite:sutherlandmarvels. Technology today, however, seems to be sophisticated
+enough to show when a volcano is expected to erupt allowing adequate time to
+make preparations.  
+
+bibliography:references.bib

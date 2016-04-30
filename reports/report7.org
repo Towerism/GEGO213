@@ -16,25 +16,26 @@ on a rapid recession.
 
 * Background
 The Columbia Glacier, a tidewater glacier located in Alaska north of the Prince
-William Sound and the fastest moving glacier in the world cite:enncolumbia,
-reaches more than 3 kilometers above sea level cite:earthobscolumbia. Decades
-ago, it once reached the northern tip of Heather island but has since retreated
-northward more than 20 kilometers cite:earthobscolumbia. Today, tons of ice are
-breaking off of the glacier by the millions daily cite:alaskaorgcolumbia.
+William Sound and today the fastest moving glacier in the world
+cite:enncolumbia, reaches more than 3 kilometers above sea level
+cite:earthobscolumbia. Decades ago, it once reached the northern tip of Heather
+island but has since retreated northward more than 20 kilometers
+cite:earthobscolumbia. Today, tons of ice are breaking off of the glacier by the
+millions daily cite:alaskaorgcolumbia.
 
 * Data, Imagery, Change
 Since 1986, the Columbia Glacier has receded more than 20 kilometers and has
 become substantially smaller in both thickness and volume
 cite:earthobscolumbia. Figure ref:img-before shows Columbia before its
 retreat. The retreat and thinning is due mostly to glacier dynamics. Figure
-ref:img-during-1 shows the terminus starting to slip into the Prince William
-Sound. This slippage most likely started due to the melting of the terminal
-moraine, which had developed over decades holding the ice in place
-cite:scilogscolumbia. Once the terminus, or nose, of the glacier began to slip
-past the moraine the glacier simply began to slowly break off into the Prince
-William Sound cite:evolvingretreat. Figure ref:img-during shows the terminus
-nearly gone, while figure ref:img-after shows Columbia after the terminus had
-vanished completely.
+ref:img-during-1 shows the terminus, or nose, starting to slip into the Prince
+William Sound. This slippage most likely started due to the melting of the
+terminal moraine, which had developed over decades holding the ice in place
+cite:scilogscolumbia. Once the terminus of the glacier began to slip past the
+moraine the glacier simply began to slowly break off into the Prince William
+Sound cite:evolvingretreat. Figure ref:img-during shows the terminus nearly
+gone, while figure ref:img-after shows Columbia after the terminus had vanished
+completely.
 
 * Conclusion
 The recession of Columbia is not due to mere melting. It involves not only

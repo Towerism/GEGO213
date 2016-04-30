@@ -1,0 +1,66 @@
+#+TITLE: Lab 12 Report
+#+AUTHOR: Martin Fracker
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \bibliographystyle{plain}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+
+* Abstract
+While it is easy to explain away the rapid retreat of the Columbia Glacier in
+Alaska as a result of mere melting, the explanation of why Columbia has
+retreated more than 20 kilometers is much more complicated than that. It
+involves not only climate but also glacier dynamics. Once the terminus of
+Columbia had begun to slip into the Prince William Sound, the glacier embarked
+on a rapid recession.
+
+* Background
+The Columbia Glacier, a tidewater glacier located in Alaska north of the Prince
+William Sound and the fastest moving glacier in the world cite:enncolumbia,
+reaches more than 3 kilometers above sea level cite:earthobscolumbia. Decades
+ago, it once reached the northern tip of Heather island but has since retreated
+northward more than 20 kilometers cite:earthobscolumbia. Today, tons of ice are
+breaking off of the glacier by the millions daily cite:alaskaorgcolumbia.
+
+* Data, Imagery, Change
+Since 1986, the Columbia Glacier has receded more than 20 kilometers and has
+become substantially smaller in both thickness and volume
+cite:earthobscolumbia. Figure ref:img-before shows Columbia before its
+retreat. The retreat and thinning is due mostly to glacier dynamics. Figure
+ref:img-during-1 shows the terminus starting to slip into the Prince William
+Sound. This slippage most likely started due to the melting of the terminal
+moraine, which had developed over decades holding the ice in place
+cite:scilogscolumbia. Once the terminus, or nose, of the glacier began to slip
+past the moraine the glacier simply began to slowly break off into the Prince
+William Sound cite:evolvingretreat. Figure ref:img-during shows the terminus
+nearly gone, while figure ref:img-after shows Columbia after the terminus had
+vanished completely.
+
+* Conclusion
+The recession of Columbia is not due to mere melting. It involves not only
+climate but also glacier dynamics. In fact, the retreat and thinning is due
+mostly to glacier dynamics. Once the terminus began to slip past the moraine
+which had been holding the ice in place, the glacier simply began to slowly
+break off into the Prince William Sound.
+
+bibliography:references.bib
+
+#+CAPTION: The Columbia Glacier can be seen reaching heather island cite:earthobscolumbia.
+#+TBLNAME: img-before
+#+ATTR_LATEX: :width 400px
+[[./images/columbia-before.jpg]]
+
+#+CAPTION: Much of the glacier's terminus turned into a melange cite:earthobscolumbia.
+#+TBLNAME: img-during-1
+#+ATTR_LATEX: :width 400px
+[[./images/columbia-during-1.jpg]]
+
+#+CAPTION: The east and west branches are more prominent cite:earthobscolumbia.
+#+TBLNAME: img-during
+#+ATTR_LATEX: :width 400px
+[[./images/columbia-during.jpg]]
+
+#+CAPTION: The glacier has split completely cite:earthobscolumbia.
+#+TBLNAME: img-after
+#+ATTR_LATEX: :width 400px
+[[./images/columbia-after.jpg]]
